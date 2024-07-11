@@ -8,7 +8,7 @@
 <!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am working as freelancer & web developer from last 4 years, I Lead a team of experienced web developers who are expertise in HTML, CSS, bootstrap, tailwind, responsive design, PHP, Codeigniter, Laravel, MYSQL, postgresql, web hosting, DBMS etc. I am an eloquent programmer in the field of web development and build UI/UX & SEO friendly websites & also develop business logical web applications which helps to boost business & solve complex business problems more frequently and efficently
+I Lead a team of experienced web developers who are expertise in HTML, CSS, bootstrap, tailwind, responsive design, PHP, Codeigniter, Laravel, MYSQL, postgresql, web hosting, DBMS etc. I am an eloquent programmer in the field of web development and build UI/UX & SEO friendly websites & also develop business logical web applications which helps to boost business & solve complex business problems more frequently and efficently
 
 💡 &nbsp; I'm a software developer and researcher by profession \
 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
