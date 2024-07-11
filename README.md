@@ -1,7 +1,3 @@
-# ashish-banjare
- self description, Introduction of my self through github account, brief  about me includes experience, stacks, projects, contacts links etc.
-
-
 ![BannerGIF](https://raw.githubusercontent.com/ashish-banjare/MyPortfolio/4f01a20cc1f09d2d656fbdfa6a4a0cb2b39accf8/public/images/intro-bg.jpg)
 
 
