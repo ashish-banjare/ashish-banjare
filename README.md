@@ -21,7 +21,7 @@ I have development skills to deliver innovative solutions that help startup/clie
 **Professional & Technical Skills:**
 
 *   I Have Strong understanding of software development principles and best practices.
-*   I Have Knowledge of backend technologies such as PHP, Python.
+*   I Have Knowledge of backend technologies such as C#,.Net,.Net Core, MVC.
 *   I Have Experience with frontend technologies such as HTML, CSS, and JavaScript.
 *   I Have Knowledge of Database management system such as MySQL, PostgreSQL, Sqlite3.
 *   I am Familiarity with version control systems like Git.
@@ -40,8 +40,6 @@ I have development skills to deliver innovative solutions that help startup/clie
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;\
 
 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
 
